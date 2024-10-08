@@ -4,5 +4,5 @@
 [![YouTube](https://raw.githubusercontent.com/dottych/dottych/main/youtube.png)](https://youtube.com/@dottych)
 
 <p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=dottych&title_color=009900&text_color=009900&bg_color=90,404040,252525&border_color=707070"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=dottych&title_color=00AA00&text_color=00AA00&bg_color=90,303030,202020&border_color=606060"></a>
 </p>
